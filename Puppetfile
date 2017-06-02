@@ -9,3 +9,7 @@ mod 'profile',
    #:tag => 'test'
 mod 'role',
    :git => 'https://github.com/rbdabu/puppet-roles.git'
+mod 'puppetlabs-stdlib', '4.17.0'
+mod 'puppetlabs-concat', '4.0.0'
+mod 'puppetlabs-stdlib', '4.17.0'
+mod 'puppet-staging', '2.2.0'
